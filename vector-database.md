@@ -1,5 +1,5 @@
-
 ## How Does a Vector Database Work?
+
 ![How Does a Vector Database Work](image-1.png)
 raditional databases store simple data like words and numbers in a table format. Vector databases, however, work with complex data called vectors and use unique methods for searching.
 
@@ -11,14 +11,16 @@ Essentially, embeddings serve as a bridge, converting non-numeric data into a fo
 ![mbeddings serve as a bridge](image-2.png)
 
 ## Examples of Vector Database
+
 ![alt text](image.png)
 
 ### 5 of the Best Vector Databases in 2023
 
-####  Chroma
+#### Chroma
+
 > OPEN-SOURCE: ✅
 
-> GITHUB STARS: 8K+⭐ 
+> GITHUB STARS: 8K+⭐
 
 ![alt text](image-3.png)
 
@@ -29,3 +31,20 @@ Chroma is the open-source embedding database. Chroma makes it easy to build LLM 
 - Feature-rich: queries, filtering, density estimates, and many other features
 - LangChain (Python and JavScript), LlamaIndex, support available
 - The same API that runs in Python notebook scales to the production cluster
+
+#### Pinecone
+
+> OPEN-SOURCE: ❎
+
+> GITHUB STARS: N/A⭐
+> Pinecone is a managed vector database platform that has been purpose-built to tackle the unique challenges associated with high-dimensional data. Equipped with cutting-edge indexing and search capabilities, Pinecone empowers data engineers and data scientists to construct and implement large-scale machine learning applications that effectively process and analyze high-dimensional data.
+
+![Pinecone](image-4.png)
+
+#### Weaviate
+
+> OPEN-SOURCE: ✅
+
+> GITHUB STARS: 7K+⭐
+> Weaviate is an open-source vector database. It allows you to store data objects and vector embeddings from your favorite ML models and scale seamlessly into billions of data objects.
+> ![Weaviate](image-5.png)
