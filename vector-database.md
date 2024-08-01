@@ -50,6 +50,7 @@ Chroma is the open-source embedding database. Chroma makes it easy to build LLM 
 > ![Weaviate](image-5.png)
 
 ### Faiss
+
 > OPEN-SOURCE: ✅
 
 > GITHUB STARS: 24K+⭐
@@ -60,3 +61,11 @@ Faiss is an open-source library for the swift search of similarities and the clu
 
 While it's primarily coded in C++, it fully supports Python/NumPy integration. Some of its key algorithms are also available for GPU execution. The primary development of Faiss is undertaken by the Fundamental AI Research group at Meta.
 
+#### Qdrant
+
+> OPEN-SOURCE: ✅
+
+> ITHUB STARS: 12.5K+⭐
+> ![Qdrant](image-7.png)
+
+Qdrant is a vector database and a tool for conducting vector similarity searches. It operates as an API service, enabling searches for the closest high-dimensional vectors. Using Qdrant, you can transform embeddings or neural network encoders into comprehensive applications for tasks like matching, searching, making recommendations, and much more.
