@@ -48,3 +48,15 @@ Chroma is the open-source embedding database. Chroma makes it easy to build LLM 
 > GITHUB STARS: 7K+⭐
 > Weaviate is an open-source vector database. It allows you to store data objects and vector embeddings from your favorite ML models and scale seamlessly into billions of data objects.
 > ![Weaviate](image-5.png)
+
+### Faiss
+> OPEN-SOURCE: ✅
+
+> GITHUB STARS: 24K+⭐
+
+![Faiss](image-6.png)
+
+Faiss is an open-source library for the swift search of similarities and the clustering of dense vectors. It houses algorithms capable of searching within vector sets of varying sizes, even those that might exceed RAM capacity. Additionally, Faiss offers auxiliary code for assessment and adjusting parameters.
+
+While it's primarily coded in C++, it fully supports Python/NumPy integration. Some of its key algorithms are also available for GPU execution. The primary development of Faiss is undertaken by the Fundamental AI Research group at Meta.
+
