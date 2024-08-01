@@ -1,4 +1,4 @@
 # Gen AI Framework and Tools
 
-1. langtool framework
+1. Langchain framework
 2. Semantic Kernal
