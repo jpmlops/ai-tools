@@ -37,7 +37,8 @@ Chroma is the open-source embedding database. Chroma makes it easy to build LLM 
 > OPEN-SOURCE: ❎
 
 > GITHUB STARS: N/A⭐
-> Pinecone is a managed vector database platform that has been purpose-built to tackle the unique challenges associated with high-dimensional data. Equipped with cutting-edge indexing and search capabilities, Pinecone empowers data engineers and data scientists to construct and implement large-scale machine learning applications that effectively process and analyze high-dimensional data.
+
+Pinecone is a managed vector database platform that has been purpose-built to tackle the unique challenges associated with high-dimensional data. Equipped with cutting-edge indexing and search capabilities, Pinecone empowers data engineers and data scientists to construct and implement large-scale machine learning applications that effectively process and analyze high-dimensional data.
 
 ![Pinecone](img/image-4.png)
 
@@ -46,8 +47,10 @@ Chroma is the open-source embedding database. Chroma makes it easy to build LLM 
 > OPEN-SOURCE: ✅
 
 > GITHUB STARS: 7K+⭐
-> Weaviate is an open-source vector database. It allows you to store data objects and vector embeddings from your favorite ML models and scale seamlessly into billions of data objects.
-> ![Weaviate](img/image-5.png)
+
+Weaviate is an open-source vector database. It allows you to store data objects and vector embeddings from your favorite ML models and scale seamlessly into billions of data objects.
+
+![Weaviate](img/image-5.png)
 
 ### Faiss
 
@@ -66,6 +69,7 @@ While it's primarily coded in C++, it fully supports Python/NumPy integration. S
 > OPEN-SOURCE: ✅
 
 > ITHUB STARS: 12.5K+⭐
-> ![Qdrant](img/image-7.png)
+
+![Qdrant](img/image-7.png)
 
 Qdrant is a vector database and a tool for conducting vector similarity searches. It operates as an API service, enabling searches for the closest high-dimensional vectors. Using Qdrant, you can transform embeddings or neural network encoders into comprehensive applications for tasks like matching, searching, making recommendations, and much more.
