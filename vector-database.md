@@ -14,9 +14,9 @@ Essentially, embeddings serve as a bridge, converting non-numeric data into a fo
 
 ![alt text](img/image.png)
 
-### 5 of the Best Vector Databases in 2023
+# 5 of the Best Vector Databases in 2023
 
-#### Chroma
+## 1. Chroma
 
 > OPEN-SOURCE: ✅
 
@@ -32,7 +32,7 @@ Chroma is the open-source embedding database. Chroma makes it easy to build LLM 
 - LangChain (Python and JavScript), LlamaIndex, support available
 - The same API that runs in Python notebook scales to the production cluster
 
-#### Pinecone
+## 2. Pinecone
 
 > OPEN-SOURCE: ❎
 
@@ -42,7 +42,7 @@ Pinecone is a managed vector database platform that has been purpose-built to ta
 
 ![Pinecone](img/image-4.png)
 
-#### Weaviate
+## 3. Weaviate
 
 > OPEN-SOURCE: ✅
 
@@ -52,7 +52,7 @@ Weaviate is an open-source vector database. It allows you to store data objects 
 
 ![Weaviate](img/image-5.png)
 
-### Faiss
+## 4. Faiss
 
 > OPEN-SOURCE: ✅
 
@@ -64,7 +64,7 @@ Faiss is an open-source library for the swift search of similarities and the clu
 
 While it's primarily coded in C++, it fully supports Python/NumPy integration. Some of its key algorithms are also available for GPU execution. The primary development of Faiss is undertaken by the Fundamental AI Research group at Meta.
 
-#### Qdrant
+## 5. Qdrant
 
 > OPEN-SOURCE: ✅
 
